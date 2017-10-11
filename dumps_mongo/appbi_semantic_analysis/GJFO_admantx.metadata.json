@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "appbi_semantic_analysis.GJFO_admantx", "name" : "_id_" } ] }
